@@ -1,0 +1,2 @@
+# inl-mning.mandatory
+html
